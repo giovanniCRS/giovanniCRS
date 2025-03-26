@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey, sono Giovanni!  
 
-<!--
-**giovanniCRS/giovanniCRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Benvenuto nel mio spazio GitHub. Qui trovi i progetti su cui sto lavorando, le tecnologie che utilizzo e qualche altra curiosità su di me.  
 
-Here are some ideas to get you started:
+## 🚀 Progetti in cui sono coinvolto  
+- 🎭 [What's On Lamezia](https://github.com/Ferro-coding/what-s-On-Lamezia) – Un'app per scoprire e condividere eventi a Lamezia Terme.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologie & Strumenti  
+### **🔹 Linguaggi di programmazione**  
+- **Backend:** Java, Spring Boot, Flask, Python  
+- **Frontend:** Angular, TypeScript  
+- **Database & Query:** SQL, PostgreSQL, XML  
+- **Low-level & Sistemi:** Assembly  
+
+### **🔹 Strumenti & Framework**  
+- **Testing & API:** JUnit, Postman, gRPC  
+- **Container & Versioning:** Docker, Git  
+- **Modellazione & Workflow:** UML, Agile  
+
+### **🔹 Software Design**  
+- Conosco e applico i **Design Patterns** per scrivere codice scalabile e manutenibile.  
+
+## 📬 Contattami  
+Se vuoi connetterti o scambiare due chiacchiere sui progetti, mi trovi su:  
+🔗 [LinkedIn](www.linkedin.com/in/giovanni-c-85a391290)  
+🐙 [GitHub](https://github.com/giovanniCRS)  
