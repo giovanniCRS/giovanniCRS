@@ -22,5 +22,5 @@ Benvenuto nel mio spazio GitHub. Qui trovi i progetti su cui sto lavorando, le t
 
 ## 📬 Contattami  
 Se vuoi connetterti o scambiare due chiacchiere sui progetti, mi trovi su:  
-🔗 [LinkedIn](www.linkedin.com/in/giovanni-c-85a391290)  
+🔗 [LinkedIn](https://www.linkedin.com/in/giovanni-caruso-85a391290)
 🐙 [GitHub](https://github.com/giovanniCRS)  
