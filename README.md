@@ -13,7 +13,7 @@ Benvenuto nel mio spazio GitHub. Qui trovi i progetti su cui sto lavorando, le t
 - **Low-level & Sistemi:** Assembly  
 
 ### **🔹 Strumenti & Framework**  
-- **Testing & API:** JUnit, Postman, gRPC  
+- **Testing & API:** JUnit, Postman, gRPC, REST, SOAP  
 - **Container & Versioning:** Docker, Git  
 - **Modellazione & Workflow:** UML, Agile  
 
