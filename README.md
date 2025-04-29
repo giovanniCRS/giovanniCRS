@@ -3,7 +3,7 @@
 Benvenuto nel mio spazio GitHub. Qui trovi i progetti su cui sto lavorando, le tecnologie che utilizzo e qualche altra curiosità su di me.  
 
 ## 🚀 Progetti in cui sono coinvolto  
-- 🎭 [What's On](https://github.com/Ferro-coding/What-s-On.git) – Un'app per scoprire e condividere eventi a Lamezia Terme.  
+- 🎭 [What's On](https://github.com/Ferro-coding/What-s-On.git) – Un'app per scoprire e condividere eventi (per ora a Lamezia Terme :) ).  
 
 ## 🛠 Tecnologie & Strumenti  
 ### **🔹 Linguaggi di programmazione**  
