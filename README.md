@@ -10,7 +10,7 @@ Benvenuto nel mio spazio GitHub. Qui trovi i progetti su cui sto lavorando, le t
 - **Backend:** Java, Spring Boot, Flask, Python  
 - **Frontend:** Angular, TypeScript  
 - **Database & Query:** SQL, PostgreSQL, XML  
-- **Low-level & Sistemi:** Assembly  
+- **Low-level & Sistemi:** Assembly, Haskell  
 
 ### **🔹 Strumenti & Framework**  
 - **Testing & API:** JUnit, Postman, gRPC, REST, SOAP  
