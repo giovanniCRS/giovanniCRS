@@ -9,12 +9,13 @@ Benvenuto nel mio spazio GitHub. Qui trovi i progetti su cui sto lavorando, le t
 ## 🛠 Tecnologie & Strumenti
 
 ### 🔹 Linguaggi di programmazione
-- **Backend:** Java, Spring Boot, Flask, Python
-- **Frontend:** Angular, TypeScript
-- **Database & Query:** SQL, PostgreSQL, XML
+- **Backend:** Java, Spring Boot, Flask, Python, Apache Spark
+- **Frontend:** Angular, TypeScript, CSS, HTML, Streamlit
+- **Dashboard & Visualizzazione:** Plotly, Pandas, NumPy
+- **Database & Query:** SQL, NoSQL, PostgreSQL, XML
 - **Low-level & Sistemi:** Assembly, Haskell, Prolog
 - **Data Science & Statistical Learning:** R
-- **Python:** AI/Game Theory, Streaming & Data Processing
+- **Macros:** AI/Game Theory, Streaming & Data Processing
 
 ### 🔹 Strumenti & Framework
 - **Testing & API:** JUnit, Postman, gRPC, REST, SOAP
@@ -27,10 +28,6 @@ Benvenuto nel mio spazio GitHub. Qui trovi i progetti su cui sto lavorando, le t
 
 ### 🔹 Software Design
 Conosco e applico i Design Patterns per scrivere codice scalabile e manutenibile.
-
-## 📬 Contattami
-
-Se vuoi connetterti o scambiare due chiacchiere sui progetti, mi trovi su:
-
-- 🔗 LinkedIn
-- 🐙 GitHub
+- **Design Patterns**
+- **Architetture:** MVC, Producer-Consumer, Modular (SRP, Open/Closed)
+- **Metodologie:** Agile, UML
