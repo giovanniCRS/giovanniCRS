@@ -15,7 +15,7 @@ Benvenuto nel mio spazio GitHub. Qui trovi i progetti su cui sto lavorando, le t
 - **Database & Query:** SQL, NoSQL, PostgreSQL, XML
 - **Low-level & Sistemi:** Assembly, Haskell, Prolog
 - **Data Science & Statistical Learning:** R
-- **Macros:** AI/Game Theory, Streaming & Data Processing
+- **Macros:** AI/Game Theory, Streaming & Data Processing, Quantum Computing
 
 ### 🔹 Strumenti & Framework
 - **Testing & API:** JUnit, Postman, gRPC, REST, SOAP
@@ -24,6 +24,7 @@ Benvenuto nel mio spazio GitHub. Qui trovi i progetti su cui sto lavorando, le t
 - **Streaming & Big Data:** Apache Spark (Structured Streaming), PySpark
 - **Dashboard & Visualizzazione:** Streamlit, Plotly, Pandas
 - **Data Formats & Storage:** JSON, Parquet, CSV
+- **Quantum Computing:** Qiskit, SciPy, NetworkX
 - **Documentazione & Reporting:** LaTeX, R Markdown
 
 ### 🔹 Software Design
