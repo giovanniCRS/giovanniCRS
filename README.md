@@ -11,7 +11,6 @@ Benvenuto nel mio spazio GitHub. Qui trovi i progetti su cui sto lavorando, le t
 ### 🔹 Linguaggi di programmazione
 - **Backend:** Java, Spring Boot, Flask, Python, Apache Spark
 - **Frontend:** Angular, TypeScript, CSS, HTML, Streamlit
-- **Dashboard & Visualizzazione:** Plotly, Pandas, NumPy
 - **Database & Query:** SQL, NoSQL, PostgreSQL, XML
 - **Low-level & Sistemi:** Assembly, Haskell, Prolog
 - **Data Science & Statistical Learning:** R
@@ -21,7 +20,7 @@ Benvenuto nel mio spazio GitHub. Qui trovi i progetti su cui sto lavorando, le t
 - **Container & Versioning:** Docker, Git
 - **Modellazione & Workflow:** UML, Agile
 - **Streaming & Big Data:** Apache Spark (Structured Streaming), PySpark
-- **Dashboard & Visualizzazione:** Streamlit, Plotly, Pandas
+- **Dashboard & Visualizzazione:** Streamlit, Plotly, Pandas, NumPy
 - **Data Formats & Storage:** JSON, Parquet, CSV
 - **Quantum Computing:** Qiskit, SciPy, NetworkX
 - **Documentazione & Reporting:** LaTeX, R Markdown
