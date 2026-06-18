@@ -15,7 +15,6 @@ Benvenuto nel mio spazio GitHub. Qui trovi i progetti su cui sto lavorando, le t
 - **Database & Query:** SQL, NoSQL, PostgreSQL, XML
 - **Low-level & Sistemi:** Assembly, Haskell, Prolog
 - **Data Science & Statistical Learning:** R
-- **Macros:** AI/Game Theory, Streaming & Data Processing, Quantum Computing
 
 ### 🔹 Strumenti & Framework
 - **Testing & API:** JUnit, Postman, gRPC, REST, SOAP
